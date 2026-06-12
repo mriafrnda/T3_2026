@@ -1,0 +1,16 @@
+D:\ProyectoT3\ProyectoT3\bin\Debug\ProyectoT3.exe.config
+D:\ProyectoT3\ProyectoT3\bin\Debug\ProyectoT3.exe
+D:\ProyectoT3\ProyectoT3\bin\Debug\ProyectoT3.pdb
+D:\ProyectoT3\ProyectoT3\bin\Debug\alarma.dll
+D:\ProyectoT3\ProyectoT3\bin\Debug\enerespaldo.dll
+D:\ProyectoT3\ProyectoT3\bin\Debug\historialeventos.dll
+D:\ProyectoT3\ProyectoT3\bin\Debug\manauala.dll
+D:\ProyectoT3\ProyectoT3\bin\Debug\MONITOREO1.dll
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.csproj.AssemblyReference.cache
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.csproj.SuggestedBindingRedirects.cache
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.exe.config
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.csproj.CoreCompileInputs.cache
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.csproj.Up2Date
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.exe
+D:\ProyectoT3\ProyectoT3\obj\Debug\ProyectoT3.pdb
+D:\ProyectoT3\ProyectoT3\bin\Debug\MONITOREO1.pdb
